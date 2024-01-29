@@ -12,6 +12,7 @@
 	<artifactId>jenkins-github-proj</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jenkins-github-proj</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot jenkins-github-proj</description>
 	<properties>
 		<java.version>17</java.version>
